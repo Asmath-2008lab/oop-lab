@@ -1,2 +1,2 @@
-# OOP-LAB
+# oop-lab
 Object Oriented Laboratory 
