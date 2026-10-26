@@ -1,0 +1,5 @@
+=== MARS SURVIVAL SIMULATOR ===
+Oxygen: 50
+Water: 60
+Food: 65
+Status: Astronaut Survived!
